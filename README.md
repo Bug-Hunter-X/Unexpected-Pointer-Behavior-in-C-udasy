@@ -1,0 +1,1 @@
+This repository contains a simple C program that exhibits unexpected behavior due to pointer usage. The primary focus is on understanding the potential pitfalls of working with pointers and how to correctly manage memory allocation and pointer arithmetic to avoid errors.  The `bug.c` file demonstrates the problematic code, while `bugSolution.c` presents a corrected version.
